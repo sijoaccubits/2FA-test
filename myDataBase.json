@@ -1,0 +1,21 @@
+{
+    "user": {
+        "5c2b2e24-fe2e-4e62-ac2b-569b7d220ea9": {
+            "id": "5c2b2e24-fe2e-4e62-ac2b-569b7d220ea9",
+            "secret": {
+                "ascii": "kgb&@<S6Io>xu,q^<RQ2Z.0dJEt20D$J",
+                "hex": "6b676226403c5336496f3e78752c715e3c5251325a2e30644a4574323044244a",
+                "base32": "NNTWEJSAHRJTMSLPHZ4HKLDRLY6FEUJSLIXDAZCKIV2DEMCEERFA",
+                "otpauth_url": "otpauth://totp/SecretKey?secret=NNTWEJSAHRJTMSLPHZ4HKLDRLY6FEUJSLIXDAZCKIV2DEMCEERFA"
+            }
+        },
+        "269a811f-9858-4b76-a08c-b9920f295fa2": {
+            "id": "269a811f-9858-4b76-a08c-b9920f295fa2",
+            "temp_secret": {
+                "secret": "MVIA3SXXEYA2RDXZTDWDBIRPODK3HRLA",
+                "uri": "otpauth://totp/My%20Awesome%20App%3Ajohndoe?secret=MVIA3SXXEYA2RDXZTDWDBIRPODK3HRLA&issuer=My%20Awesome%20App",
+                "qr": "https://chart.googleapis.com/chart?chs=166x166&chld=L|0&cht=qr&chl=otpauth://totp/My%20Awesome%20App%3Ajohndoe%3Fsecret=MVIA3SXXEYA2RDXZTDWDBIRPODK3HRLA%26issuer=My%20Awesome%20App"
+            }
+        }
+    }
+}
